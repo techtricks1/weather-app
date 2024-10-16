@@ -1,24 +1,24 @@
 {
   "short_name": "Weather App",
-  "name": "Weather App ",
+  "name": "Weather App",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "/icon.webp",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/webp"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "/icon.webp",
+      "type": "image/webp",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "/icon.webp",
+      "type": "image/webp",
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://techtricks1.github.io/weather-app/",
+  "start_url": "/weather-app/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"

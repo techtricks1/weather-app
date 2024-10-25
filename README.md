@@ -75,4 +75,4 @@ The Weather Dashboard is a responsive web application that provides real-time we
 4. Push to the branch (git push origin feature/new-feature).
 5. Open a pull request.
 ### Licence
-This project s licensed under the MIT License. See the (https://github.com/techtricks1/weather-app/blob/main/LICENSE)[LICENSE] file for details.
+This project s licensed under the MIT License. See the [LICENSE](https://github.com/techtricks1/weather-app/blob/main/LICENSE) file for details.
